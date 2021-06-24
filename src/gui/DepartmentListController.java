@@ -66,16 +66,3 @@ public class DepartmentListController implements Initializable {
 		tableViewDepartment.setItems(obsList);
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
